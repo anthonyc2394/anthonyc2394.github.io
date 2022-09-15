@@ -8,6 +8,10 @@ body {
     color: #f5f6f7;
 }
 
+.img-fluid {
+    border-radius: 25px;
+}
+
 p {
     font-size: 30px;
 }
