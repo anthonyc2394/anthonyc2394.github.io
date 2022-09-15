@@ -85,3 +85,8 @@ a {
 .navbar-nav li a:hover {
     color: #2e72a1 !important;
 }
+
+.space {
+    margin-top: 30px;
+    margin-bottom: 30px:
+}
